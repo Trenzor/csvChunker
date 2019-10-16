@@ -1,0 +1,1 @@
+Create new Application via Automator. Make sure to set 'pass input' to 'as arguments'. Enjoy your new Chunking robot. 
